@@ -11271,7 +11271,7 @@
   "properties": {
     "Facility Name": "Gloria Molina Grand Park",
     "Facility Address": "200 N Grand Ave, Los Angeles, CA 90012",
-    "Council District": null,
+    "Council District": 14,
     "Standard": null,
     "Bottle Fillers": "",
     "Gender Neutral": "",
