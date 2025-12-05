@@ -166,7 +166,7 @@ const Home = () => {
 
     mapref.current = map;
 
-    // Controlss
+    // Controlsss
     map.addControl(new mapboxgl.NavigationControl(), "top-right");
     map.addControl(
       new mapboxgl.GeolocateControl({
