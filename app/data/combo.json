@@ -7502,6 +7502,32 @@
         "Water ONLY": 0,
         "Combo": 1
       }
-    }
+    },
+     {
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.246742,
+     34.056278
+    ]
+  },
+  "properties": {
+    "Facility Name": "Gloria Molina Grand Park",
+    "Facility Address": "200 N Grand Ave, Los Angeles, CA 90012",
+    "Council District": 14,
+    "Standard": null,
+    "Bottle Fillers": "",
+    "Gender Neutral": "",
+    "Women": "",
+    "Men": "",
+    "No. of Baby Changing Stations": "",
+    "No. of Toilets": "",
+    "No. of Urinals": "",
+    "No. of Sinks": "",
+    "No. of Showers": "",
+    "Combo": 1
+  }
+}
   ]
 }
